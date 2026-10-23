@@ -122,7 +122,7 @@
 | **SyncPro 多窗口毫秒级同步器** | ❌ | ✅ | ✅ |
 | **本地自动化 API / MCP 协议** | ❌ | ✅ | ✅ |
 | **局域网 P2P 团队协同 (TeamSync)** | ❌ | ❌ | ✅ |
-| **环境配额与技术支持** | 基础额度 | 扩容配额 / 专属支持 | 无限配额 / VIP 专享通道 |
+| **环境配额与技术支持** | 2个永久额度 | 扩容配额 / 专属支持 | 扩容配额 / VIP 专享通道 |
 
 * 📥 **立即下载 Windows 客户端安装包**：[https://phantommatrix.shangjia.vip/download](https://phantommatrix.shangjia.vip/download)
 * 💳 **升级正版授权许可证**：[https://phantommatrix.shangjia.vip/purchase](https://phantommatrix.shangjia.vip/purchase)
